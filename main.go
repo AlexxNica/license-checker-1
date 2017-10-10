@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/heptio/license-checker/license"
+	"github.com/heptiolabs/license-checker/license"
 )
 
 func main() {

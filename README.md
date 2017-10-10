@@ -26,7 +26,7 @@ By default, it skips the following directories:
 
 ## Building
 
-You can just `go get github.com/heptio/license-checker` to get the binary installed locally.
+You can just `go get github.com/heptiolabs/license-checker` to get the binary installed locally.
 
 ## Running
 
